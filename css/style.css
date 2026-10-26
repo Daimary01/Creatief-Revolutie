@@ -1,0 +1,24 @@
+/* (Krungthep of Ayuthaya als lettertype website) ik heb  */
+body { background-color: #21b19e;
+    font-family: Ayuthaya;
+    font-size: 18px;
+    line-height: 1,8cm;
+}
+
+
+/* (dit is de titel van de index pagia) */
+h1 {
+    color: #b33a17;
+    font-size: 185px;
+    font-family: "Gill Sans Nova"
+}
+
+.broodtext {
+    display: flex;
+    justify-content: center;
+    max-width: 20cm;
+}
+
+.brood1{
+    
+}
